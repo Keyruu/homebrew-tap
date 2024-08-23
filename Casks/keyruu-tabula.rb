@@ -12,4 +12,6 @@ cask "keyruu-tabula" do
   app "Tabula.app"
 
   uninstall quit: "de.keyruu.Tabula"
+
+  zap trash: "~/Library/Preferences/de.keyruu.Tabula.plist"
 end
