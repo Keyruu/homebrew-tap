@@ -1,6 +1,6 @@
 cask "keyruu-tabula" do
-  version "1.4.0"
-  sha256 "63db12e7fb686474057d7f68898cc9a39775f767315b1a3f9bdcd6f880b9924b"
+  version "1.5.0"
+  sha256 "c9343c3230ef26e6e797b31bd7c6faff158a16766e4f3349562d87c2a05a8fcd"
 
   url "https://github.com/keyruu/tabula/releases/download/#{version}/Tabula.zip"
   name "Tabula"
